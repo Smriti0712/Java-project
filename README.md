@@ -1,2 +1,2 @@
 # Java-project
-DevelopED a REST API without a database
+Developed a REST API without a database
